@@ -1,0 +1,15 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	BusSign: {
+		DisplayName: Bus Sign
+		Tooltip: Allows you to ride a Bus Stop
+	}
+}
+
+Buffs: {
+	BusBuff: {
+		DisplayName: Bus Buff
+		Description: You are busy now
+	}
+}
